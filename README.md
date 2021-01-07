@@ -1,1 +1,1 @@
-php-badword
+php-badwords
